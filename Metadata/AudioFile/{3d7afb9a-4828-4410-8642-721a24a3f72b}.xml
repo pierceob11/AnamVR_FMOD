@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3d7afb9a-4828-4410-8642-721a24a3f72b}">
+		<property name="assetPath">
+			<value>Default assets/Character/Hand Foley/Door/foley_door_open_01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.2746875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a7ab032-4400-4a57-afd9-392f487f5307}</destination>
+		</relationship>
+	</object>
+</objects>

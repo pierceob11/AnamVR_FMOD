@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d243bce1-c221-4fca-af84-de7cd92474aa}">
+		<property name="assetPath">
+			<value>Default assets/Music/music_lvl_01_drone_loop.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.0566041666666663</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a7ab032-4400-4a57-afd9-392f487f5307}</destination>
+		</relationship>
+	</object>
+</objects>
